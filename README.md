@@ -1,11 +1,11 @@
 # Terraform quick play
 
-ref: https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform
+Follow this tutorial: https://cloud.google.com/community/tutorials/getting-started-on-gcp-with-terraform
 
 prepare:
 
 * local ssh key
-* gcp service account key
+* gcp service account key (download json format)
 * gcr go-web image (built from dockerfiles/)
 
 usage:
